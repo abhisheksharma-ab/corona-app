@@ -1,0 +1,38 @@
+* {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body
+{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KO9rtTqESPl_R1K1NC-6w7rrcPX3LpVIpBeoRV6iLPVc9W9Xa_HMEDEJZyg0tjEUwdw&usqp=CAU);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1
+{
+    text-align: center;
+    font-weight: lighter;
+}
+div
+{
+    width:40%;
+    background-color: #f8ffcd;
+    margin: 20px;
+    padding: 5%;
+    margin: auto;
+}
+label
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+#res
+{
+    background-color: white;
+    display: none;
+    width: 100%;
+}
